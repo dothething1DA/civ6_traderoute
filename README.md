@@ -1,6 +1,6 @@
-# Trade Route Network Optimization
+# Trade Route Network Optimisation
 
-This project explores a graph optimization problem inspired by the traderoute system in Civilization-style strategy games.
+This project explores a graph optimisation problem inspired by the traderoute system in Civilization-style strategy games.
 
 ## Problem
 
